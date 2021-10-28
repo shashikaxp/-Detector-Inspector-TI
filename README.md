@@ -5,6 +5,7 @@
 1.  Clone the repository.
 2.  Run `npm install`.
 3.  Create any chart by providing the URL via CML `npm run start -- {{url}}`
+4.  Chart file/graph will created in root folder
 
 #### NPM Scripts for run the program
 
