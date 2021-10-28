@@ -1,5 +1,11 @@
 ### Detector Inspector – Engineer Evaluation
 
+#### Assumptions/Limitations
+
+1.  Target the first "table" find in the page.
+2.  Numeric values will be displayed through Y axis ("values from table"). X axis have hard code value ("not getting from the table")
+3.  Numeric values will be filtered. (Ex: if cell value is "168.2 cm (5 ft 6 in)", value 168.2 will be used in chart removing other values)
+
 #### How to install
 
 1.  Clone the repository.
